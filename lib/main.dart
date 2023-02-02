@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
       name: 'Running Shoes',
       price: 850.00,
       description:
-          ' A footwear which protects and offers comfort to your feet. Comfortable Mixed canvas upper material. Soft footbed ensures all-day comfort.',
+          'A footwear which protects and offers comfort to your feet. Comfortable Mixed canvas upper material. Soft footbed ensures all-day comfort.',
     ),
     const Product(
       image: 'fitness_watch.jpg',
